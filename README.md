@@ -1,5 +1,4 @@
 # Password Generator Project
-
 ![Password Generator Screenshot](./screenshot.png)
 
 - Include lowercase letters
@@ -7,24 +6,7 @@
 - Include numbers
 - Include symbols
 - Specify password length (8 to 20 characters)
-
-The app also allows users to easily copy the generated password to their clipboard.
-
-## Features
-
-- User-friendly interface
-- Customizable password options
-- Password length control
-- Copy to clipboard functionality
-- Error message shown if no option is selected
-
-## How to Use
-
-1. Clone or download this repository.
-2. Open `index.html` (or your main HTML file) in a web browser.
-3. Choose your preferred password options.
-4. Click the **Generate Passwords** button.
-5. Click the copy icon to copy the password to your clipboard.
+The app also allows users to easily copy the generated password
 
 ## Technologies Used
 
